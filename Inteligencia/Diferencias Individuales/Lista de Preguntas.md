@@ -31,7 +31,6 @@ Recuerden que también pueden agregar preguntas nuevas a este documento para ali
 12. ¿Cuáles fueron las caracteristicas de la escuela alemana y quienes fueron sus principals representantes?
 13. ¿Qué son los test mentales y que rol cumplen en la psicologia de las diferencias individuales? 
 
-Esto es una prueba
 
 
 
