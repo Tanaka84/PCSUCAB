@@ -17,7 +17,7 @@ Recuerden que también pueden agregar preguntas nuevas a este documento para ali
 
 ## Lista de preguntas
 
-1. ¿Qué podemos entender por diferencias individuales?
+1. ~~¿Qué podemos entender por diferencias individuales?~~
 2. ¿Cúales fueron las aproximaciones al estudio de las diferencias individuales en el periodo clásico?
 3. ¿Qué aproximaciones al estudio de las diferencias individuales podemos rescatar del medioevo?
 4. ¿Cómo nos aproximamos a las diferencias individuales a partir de la revolución científica?
