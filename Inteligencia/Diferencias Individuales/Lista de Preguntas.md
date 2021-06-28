@@ -7,11 +7,11 @@ A continuación se presentan una serie de preguntas respecto al presente tema, e
 > 
 >> **¿Cúal es tu nombre?** 
 > 
-> Como Gustavo se sabe la respuesta procede a editar este archivo con la pregunto y hace un strikethrought del texto:
+> Como Gustavo se sabe la respuesta, procede a editar este archivo con la pregunta y hace un strikethrought del texto:
 >
 >> ~~¿Cúal es tu nombre?~~
 > 
-> Gustavo luego crea en este misma carpeta un archivo con el nombre "cualestunombre.md" donde va a escribir la respuesta de la pregunta.
+> Gustavo luego crea, en este misma carpeta, un archivo con el nombre "cualestunombre.md" donde va a escribir la respuesta a la pregunta.
 
 Recuerden que también pueden agregar preguntas nuevas a este documento para alimentar el repositorio.
 
