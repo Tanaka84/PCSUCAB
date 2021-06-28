@@ -30,3 +30,7 @@ Recuerden que también pueden agregar preguntas nuevas a este documento para ali
 11. ¿Cuáles fueron las caracteristicas de la escuela francesa y quienes fueron sus principals representantes?
 12. ¿Cuáles fueron las caracteristicas de la escuela alemana y quienes fueron sus principals representantes?
 13. ¿Qué son los test mentales y que rol cumplen en la psicologia de las diferencias individuales? 
+
+
+
+![Image of gusanito](https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png)
