@@ -6,6 +6,6 @@ Github es una herramienta que se usa tipicamente en desarrollo de software, pero
 
 Los documentos que vamos a crear utilizan un formato llamado MarkDown, es posible que no esten familiarizado con el, no se preocupen, es bastante sencillo, pueden encontrar una guia rápida y práctica en el siguiente vinculo.
 
-    [MARKDOWN]https://www.markdownguide.org/basic-syntax/
+    [MARKDOWN](https://www.markdownguide.org/basic-syntax/)
 
 La carpeta de cada tema tienen las instrucciones que deben seguir en [Listas de preguntas.md] en la medida que revisen el material es posible que se les ocurran nuevas preguntas, sientanse en libertad de agregarlas a la lista.
