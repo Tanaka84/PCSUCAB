@@ -33,4 +33,4 @@ Recuerden que también pueden agregar preguntas nuevas a este documento para ali
 
 
 
-![Image of gusanito](https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png)
+
