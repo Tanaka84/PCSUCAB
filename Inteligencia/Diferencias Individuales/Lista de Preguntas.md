@@ -12,3 +12,5 @@ A continuación se presentan una serie de preguntas respecto al presente tema, e
 >> ~~¿Cúal es tu nombre?~~
 > 
 > Gustavo luego crea en este misma carpeta un archivo con el nombre "cualestunombre.md" donde va a escribir la respuesta de la pregunta.
+
+Recuerden que también pueden agregar preguntas nuevas a este documento para alimentar el repositorio.
