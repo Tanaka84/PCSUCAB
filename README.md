@@ -8,3 +8,4 @@ Los documentos que vamos a crear utilizan un formato llamado MarkDown, es posibl
 
 >https://www.markdownguide.org/basic-syntax/
 
+La carpeta de cada tema tienen las instrucciones que deben seguir en [Listas de preguntas.md] en la medida que revisen el material es posible que se les ocurran nuevas preguntas, sientanse en libertad de agregarlas a la lista. 
