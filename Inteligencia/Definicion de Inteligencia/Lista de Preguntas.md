@@ -20,7 +20,7 @@ Lista de preguntas
 
 1. La definición de Inteligencia
 2. Diferencias entre teorías implícitas y teorías formales
-3. Tipos de inteligencia
+3. ~~Tipos de inteligencia~~ (Diego R.)
 4. Caracteristicas de la inteligencia respaldadas por estudios empíricos
 5. La inteligencia como predictor de otros aspectos de la vida humana
 6. Tests de inteligencia: Historias y caracteristicas más relevantes
